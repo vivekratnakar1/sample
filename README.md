@@ -1,3 +1,4 @@
+
 # Spring Boot Rate Limiter (Redis)
 
 A learning project demonstrating a fixed-window API rate limiter using Spring Boot, Java 21, Maven, and Redis.
